@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adilbelhachemi
-- 👀 I’m interested in Go & Node.js & svelte
+- 👀 I’m interested in Go / Node.js / svelte
 - 📫 you can contact me by email at adil@belhachemi.me
 
 <!---
